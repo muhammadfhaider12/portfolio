@@ -45,9 +45,9 @@ The data visualiztion project has been carried out using Microsoft PowerBI to an
 
 ## Certicates 
 
-[Tableau for Data Scientists](haidermuhammadfaseeh@gmail.com)  
-[Power BI Essential Training](haidermuhammadfaseeh@gmail.com)   
-[SQL: Data Reporting and Analysis](haidermuhammadfaseeh@gmail.com)  
-[Google Data Analytics Certificate](haidermuhammadfaseeh@gmail.com)  
+[Tableau for Data Scientists](https://github.com/muhammadfhaider12/portfolio/blob/main/Certificates/Tableau%20for%20Data%20Scientists.pdf)  
+[Power BI Essential Training](https://github.com/muhammadfhaider12/portfolio/blob/main/Certificates/Power%20BI%20Essential%20Training%20.pdf)   
+[SQL: Data Reporting and Analysis](https://github.com/muhammadfhaider12/portfolio/blob/main/Certificates/SQL%20Data%20Reporting%20and%20Analysis.pdf)  
+[Google Data Analytics Certificate](https://github.com/muhammadfhaider12/portfolio/blob/main/Certificates/Google%20Data%20Analytics.pdf)  
 
 
