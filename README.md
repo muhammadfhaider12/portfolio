@@ -17,7 +17,10 @@ In the following machine learning classification problem, the project aims to pr
 The main goal of the project is to predict the used car's price based on its several features. To solve this machine learning regression problem, numerous data cleaning and feature engineering approaches have been implemented during the data exploration and preprocessing phase. Moreover, I have applied the Decision Tree Regressor, Random Forest, XGBoost Model, and KNearest Neighbour to attain the best results.
 
 ## [Pizza Sales Report Using PowerBI](https://github.com/muhammadfhaider12/pizza-sales-report-using-powerbi)    
-The data visualization project has been carried out using Microsoft PowerBI to analyze and extract meaningful data insight to help the business to thrive by understanding customers' buying choices and patterns.
+The data visualization project has been carried out using Microsoft PowerBI to analyze and extract meaningful data insight to help the business to thrive by understanding customers' buying choices and patterns.  
+
+## [SQL Challenges](https://github.com/muhammadfhaider12/sql-queries/tree/main)   
+A diverse array of SQL challenges from LeetCode has been thoroughly tackled and solved, showcasing proficiency in database query optimization, data manipulation, and schema design. These challenges provide valuable practice in solving real-world data problems and honing SQL skills for professional development in database management and analysis roles.
 
 ## Core Competencies
 
