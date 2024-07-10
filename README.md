@@ -36,7 +36,7 @@ This repository contains a comprehensive SQL project that manages an employee da
 
 
 ## Tableau  
-### [HR Analytics Dashboard Uding Tableau](https://github.com/muhammadfhaider12/hr-analytics-dashboard-using-tableau/tree/main)  
+### [HR Analytics Dashboard Using Tableau](https://github.com/muhammadfhaider12/hr-analytics-dashboard-using-tableau/tree/main)  
 Developed a comprehensive HR analytics dashboard in Tableau, visualizing key employee metrics and attrition analysis, and provided actionable insights for improving retention and satisfaction strategies.
 ### [Analyzing Netflix Dataset](https://github.com/muhammadfhaider12/netflix-dashboard-using-tableau/blob/main/netflix-insights/Dashboard.png)  
 The interactive dashboard below shows the important data insights from the Netflix dataset. The dashboard shows the count of movies and TV shows, the percentage difference between movies and TV shows, the top 10 genres, and the number of TV shows and movies by year. The data can be filtered by type and movie name.  
