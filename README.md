@@ -50,7 +50,7 @@ The interactive dashboard below shows the important data insights from the Netfl
 
 
 ## Skills:
-• **Python:** Data Visualization (using Matplotlib, Seaborn), Data Transformation and Processing (using NumPy, Pandas), Machine Learning (with scikit-learn, spacy), Deep Learning (with TensorFlow, Keras), Statistics (with SciPy) **(Intermediate to Advanced)**   
+• **Python:** Data Visualization (using Matplotlib, Seaborn), Data Transformation and Processing (using NumPy, Pandas), Machine Learning (with scikit-learn), Deep Learning (with TensorFlow, Keras), Statistics (with SciPy) **(Intermediate to Advanced)**   
 
   
 •	**SQL:** For Data Manipulation, Extraction and Analysis using queries **(Intermediate to Advanced)**  
